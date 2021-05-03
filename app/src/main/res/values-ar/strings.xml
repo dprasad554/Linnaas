@@ -1,0 +1,46 @@
+<resources>
+    <string name="app_name">LIN-NAAS</string>
+    <string name="login_text">يرجى إدخال رقم هاتفك المحمول للمتابعة</string>
+    <string name="otp_text">Pيرجى إدخال OTP الخاص بك المرسلة إلى رقمك</string>
+    <string name="otp_below">رقم الجوال الذي أدخلته كان  </string>
+    <string name="read_out">يرجى قراءة العبارة التالية بصوت عال بالضغط على زر التسجيل (الميكروفون) أدناه واضغط على زر التوقف عند الانتهاء من التحدث</string>
+    <string name="successful_completion">تهانينا!!! \n تم إضافة 10 نقاط إلى محفظتك.\n\n استمر في التعلم</string>
+    <string name="unsuccesful">آسف!!! \nنأسف لإبلاغك أن العبارة التي تحدثت عنها لا تتطابق مع العبارة المكتوبة\n\nحاول مرة اخرى</string>
+    <string name="firstname">الاسم الاول</string>
+    <string name="lastname">الكنية</string>
+    <string name="phonenumber">رقم الهاتف</string>
+    <string name="emailid">عنوان الايميل</string>
+    <string name="male">الذكر</string>
+    <string name="female">أنثى</string>
+    <string name="update">تحديث</string>
+    <string name="editprofile">تعديل الملف الشخصي</string>
+    <string name="home">الصفحة الرئيسية</string>
+    <string name="history">التاريخ</string>
+    <string name="wallet">محفظة نقود</string>
+    <string name="aboutus">معلومات عنا</string>
+    <string name="termscondition">الأحكام والشروط</string>
+    <string name="privacypolicy">سياسة خاصة</string>
+    <string name="contactus">اتصل بنا</string>
+    <string name="changelang">تغيير اللغة</string>
+    <string name="profile">الملف الشخصي</string>
+    <string name="updatemanual">تحديث يدويًا</string>
+    <string name="record">سجل</string>
+    <string name="chooseoption">يرجى تحديد خيار واحد للمتابعة</string>
+    <string name="entercountplease">الرجاء إدخال العدد</string>
+    <string name="entercount">أدخل العد</string>
+    <string name="recordtxt">Please read out loud the following phrase by pression the record(mic) button
+    below and press stop button when you have completed speaking
+    </string>
+    <string name="phrase">العبارة</string>
+    <string name="sorry">Sorry</string>
+    <string name="regrettxt">We regret to inform you that the phrase that you spoke does not match with the phrase written </string>
+    <string name="tryagain">Please try again</string>
+    <string name="trybutton">TRY AGAIN</string>
+    <string name="walletpoints">نقاط المحفظة</string>
+    <string name="points">pts</string>
+    <string name="search">بحث</string>
+    <string name="entersearch">يرجى إدخال الآية / الفصل</string>
+    <string name="phrasethis">هذه هي العبارة</string>
+    <string name="logout">تسجيل خروج</string>
+    <string name="otp_below_con">يرجى إدخال OTP أدناه للمتابعة</string>
+</resources>

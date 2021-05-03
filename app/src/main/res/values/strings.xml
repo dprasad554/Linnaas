@@ -1,0 +1,47 @@
+<resources>
+    <string name="app_name">LIN-NAAS</string>
+    <string name="login_text">Please enter your mobile number to continue</string>
+    <string name="otp_text">Please enter your OTP sent to your number</string>
+    <string name="otp_below">Your entered mobile no was </string>
+    <string name="otp_below_con">Please enter the OTP below to continue</string>
+    <string name="read_out">Please read out loud the following phrase by pressing the record(mic) button below and press stop button when you have completed speaking</string>
+    <string name="successful_completion">Congratulations!!! \n 10 points have been credited to your wallet.\n\n Keep Learning</string>
+    <string name="unsuccesful">Sorry!!! \nWe regret to inform you that the phrase that you spoke does not match with the phrase written\n\nPlease try again</string>
+    <string name="firstname">First Name</string>
+    <string name="lastname">Last Name</string>
+    <string name="phonenumber">Phone Number</string>
+    <string name="emailid">Email Id</string>
+    <string name="male">Male</string>
+    <string name="female">Female</string>
+    <string name="update">Update</string>
+    <string name="editprofile">Edit Profile</string>
+    <string name="home">Home</string>
+    <string name="history">History</string>
+    <string name="wallet">Wallet</string>
+    <string name="aboutus">About Us</string>
+    <string name="termscondition">Terms and Conditions</string>
+    <string name="privacypolicy">Privacy policy</string>
+    <string name="contactus">Contact us</string>
+    <string name="changelang">Change Language</string>
+    <string name="profile">Profile</string>
+    <string name="updatemanual">Update Manually</string>
+    <string name="record">Record</string>
+    <string name="chooseoption">Please choose one option to continue</string>
+    <string name="entercountplease">Please enter the count</string>
+    <string name="entercount">enter count</string>
+    <string name="recordtxt">Please read out loud the following phrase by pression the record(mic) button
+    below and press stop button when you have completed speaking
+    </string>
+    <string name="phrase">Phrase</string>
+    <string name="sorry">Sorry</string>
+    <string name="regrettxt">We regret to inform you that the phrase that you spoke does not match with the phrase written </string>
+    <string name="tryagain">Please try again</string>
+    <string name="trybutton">TRY AGAIN</string>
+    <string name="walletpoints">Wallet Points</string>
+    <string name="points">pts</string>
+    <string name="search">Search</string>
+    <string name="entersearch">Please enter verse/chapter</string>
+    <string name="phrasethis">This is the phrase</string>
+    <string name="logout">Log out</string>
+
+</resources>
